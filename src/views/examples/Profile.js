@@ -144,7 +144,7 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                        Life Coach | Software Developer: JavaScript | CSS | React
+                        Life Coach - Software Developer: JavaScript - CSS - React
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
