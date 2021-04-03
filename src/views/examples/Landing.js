@@ -125,19 +125,20 @@ class Landing extends React.Component {
                             Code Fellows 201: Beginners Software Development
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            In CF 201 we get an introduction to computer languages consisting of HTML, CSS, JavaScript and Markdown.
                           </p>
                           <div>
-                            <Badge color="primary" pill className="mr-1">
-                              design
+                          <Badge color="primary" pill className="mr-1">
+                              Markdown
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              system
+                              HTML
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              creative
+                              CSS
+                            </Badge>
+                            <Badge color="primary" pill className="mr-1">
+                              JavaScript
                             </Badge>
                           </div>
                           <Button
