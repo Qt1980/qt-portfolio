@@ -143,9 +143,10 @@ class Landing extends React.Component {
                           </div>
                           <Button
                             className="mt-4"
+                            target="_blank"
                             color="primary"
-                            href="#pablo"
-                            onClick={e => e.preventDefault()}
+                            href="https://www.codefellows.org/courses/code-201/foundations-of-software-development/"
+                            // onClick={e => e.preventDefault()}
                           >
                             Learn more
                           </Button>
