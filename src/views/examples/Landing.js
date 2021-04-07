@@ -160,29 +160,27 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                            Code Fellows: 301 Intermediate Software Development
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            In CF 301 we learn more advanced concepts as we dive deeper into the JavaScript and REACT JSX languages.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
-                              business
+                              JavaScript
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              vision
+                              React
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              success
+                              CSS/HTML
                             </Badge>
                           </div>
                           <Button
                             className="mt-4"
+                            target="_blank"
                             color="success"
-                            href="#pablo"
-                            onClick={e => e.preventDefault()}
+                            href="https://www.codefellows.org/courses/code-301/intermediate-software-development/"
                           >
                             Learn more
                           </Button>
@@ -196,29 +194,30 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                            Code Fellows: 401 Advanced Software Development
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            CF 401 focuses the budding developer into a language specific course desinged to build and hone your skills in the one of the advanced language offering.
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
-                              marketing
+                              JavaScript
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              product
+                              Python
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              launch
+                              .Net
+                            </Badge>
+                            <Badge color="warning" pill className="mr-1">
+                              java
                             </Badge>
                           </div>
                           <Button
                             className="mt-4"
+                            target="_blank"
                             color="warning"
-                            href="#pablo"
-                            onClick={e => e.preventDefault()}
+                            href="https://www.codefellows.org/courses/code-400/"
                           >
                             Learn more
                           </Button>
