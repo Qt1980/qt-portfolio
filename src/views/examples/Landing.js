@@ -845,7 +845,7 @@ class Landing extends React.Component {
               <CardBody className="p-lg-5">
                <h5 className="mb-1">About Me</h5>
                 <p className="mt-0">
-                  My name is Qadree Trimble. I'm a software Developer blah blah blah
+                  My name is Qadree Trimble. I'm a software Developer with an entrepreneurial spirit. I am a Life Coach and Catering Chef as well and my goal is to learn to code to support my own business and to teach others in my community to code. I want to help make tech more diverse and I'm excited to be a part of that change. 
                 </p>
               </CardBody>
             </Card>
